@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/RedSharkBeta/static/css/main.ae82a45f.chunk.css",
-    "main.js": "/RedSharkBeta/static/js/main.9ab6cecd.chunk.js",
-    "main.js.map": "/RedSharkBeta/static/js/main.9ab6cecd.chunk.js.map",
+    "main.js": "/RedSharkBeta/static/js/main.817b01dc.chunk.js",
+    "main.js.map": "/RedSharkBeta/static/js/main.817b01dc.chunk.js.map",
     "runtime-main.js": "/RedSharkBeta/static/js/runtime-main.239c1435.js",
     "runtime-main.js.map": "/RedSharkBeta/static/js/runtime-main.239c1435.js.map",
     "static/css/2.3a2569f7.chunk.css": "/RedSharkBeta/static/css/2.3a2569f7.chunk.css",
-    "static/js/2.3a101aee.chunk.js": "/RedSharkBeta/static/js/2.3a101aee.chunk.js",
-    "static/js/2.3a101aee.chunk.js.map": "/RedSharkBeta/static/js/2.3a101aee.chunk.js.map",
+    "static/js/2.117abb24.chunk.js": "/RedSharkBeta/static/js/2.117abb24.chunk.js",
+    "static/js/2.117abb24.chunk.js.map": "/RedSharkBeta/static/js/2.117abb24.chunk.js.map",
     "static/js/3.4ba332f4.chunk.js": "/RedSharkBeta/static/js/3.4ba332f4.chunk.js",
     "static/js/3.4ba332f4.chunk.js.map": "/RedSharkBeta/static/js/3.4ba332f4.chunk.js.map",
     "index.html": "/RedSharkBeta/index.html",
     "static/css/2.3a2569f7.chunk.css.map": "/RedSharkBeta/static/css/2.3a2569f7.chunk.css.map",
     "static/css/main.ae82a45f.chunk.css.map": "/RedSharkBeta/static/css/main.ae82a45f.chunk.css.map",
-    "static/js/2.3a101aee.chunk.js.LICENSE.txt": "/RedSharkBeta/static/js/2.3a101aee.chunk.js.LICENSE.txt"
+    "static/js/2.117abb24.chunk.js.LICENSE.txt": "/RedSharkBeta/static/js/2.117abb24.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.239c1435.js",
     "static/css/2.3a2569f7.chunk.css",
-    "static/js/2.3a101aee.chunk.js",
+    "static/js/2.117abb24.chunk.js",
     "static/css/main.ae82a45f.chunk.css",
-    "static/js/main.9ab6cecd.chunk.js"
+    "static/js/main.817b01dc.chunk.js"
   ]
 }
