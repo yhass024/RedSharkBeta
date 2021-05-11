@@ -1,0 +1,60 @@
+.confirmationCard {
+  background-color: rgb(9, 34, 172);
+  color: black;
+  font-weight: 600;
+  /* text-shadow: black 0px 0px 5px; */
+  border: 1px solid red;
+  border-radius: 15%;
+  margin: 5px;
+  background-image: url("./redShark1.jpg");
+}
+
+.rentalDeets {
+  font-size: 35px;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.dateTime {
+  font-size: 26px;
+  font-weight: 500;
+}
+
+.bold {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.email {
+  border-bottom: 2px solid red;
+  border-top: 2px solid red;
+}
+
+.emailContent {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 500;
+}
+
+.client {
+  font-size: 25px;
+}
+
+.clientDetails {
+  border: 2px solid rgb(215, 213, 213);
+  background-color: rgb(215, 213, 213);
+  border-radius: 5%;
+}
+
+.clientCard {
+  font-size: 23px;
+}
+
+.deets {
+  border: 1px solid rgb(0, 191, 255);
+  margin: 99px;
+  background-color: rgb(0, 191, 255);
+  border-radius: 15%;
+  text-shadow: black 0px 0px 5px;
+  color: white;
+}

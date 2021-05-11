@@ -1,0 +1,81 @@
+.leftSection {
+  padding: 0px;
+}
+
+.mainSection {
+  padding: 5px;
+  margin-left: 20px;
+}
+
+.logo {
+  border-left: 10px solid rgb(0, 191, 255);
+  max-height: 300px;
+  border-radius: 10%;
+  border-right: 10px solid rgb(0, 191, 255);
+  margin-bottom: 100px;
+}
+
+.deliveryPic {
+  opacity: 0.9;
+}
+
+.mainContent {
+  background-color: rgb(255, 255, 255);
+}
+
+.main {
+  background-color: rgb(236, 245, 245);
+}
+
+.reserve {
+  margin-top: 15px;
+  font-size: 23px;
+}
+
+.deleteAfter {
+  margin-bottom: 50px;
+  border-left: 2px solid rgb(0, 191, 255);
+  border-right: 2px solid rgb(0, 191, 255);
+  border-radius: 5%;
+  margin-top: 50px;
+}
+
+.leftBannerText {
+  color: rgb(2, 2, 2);
+  font-size: 17px;
+  border-bottom: 5px solid red;
+  border-radius: 82%;
+  border-top: 5px solid red;
+}
+
+.time {
+  margin: auto;
+
+  width: 80%;
+}
+
+.date {
+  margin: auto;
+  width: 100%;
+  padding: 10px;
+}
+
+.jumbo {
+  background-color: rgb(238, 31, 31);
+  color: white;
+  font-size: 29px;
+  text-shadow: 3px 3px #000000;
+}
+
+.jumbo2 {
+  background-color: rgb(238, 31, 31);
+  font-size: 20px;
+  color: white;
+  text-shadow: 1.5px 1.5px #000000;
+}
+
+.jumboMain {
+  background-color: rgb(238, 31, 31);
+  border: 1px solid black;
+  border-radius: 15%;
+}

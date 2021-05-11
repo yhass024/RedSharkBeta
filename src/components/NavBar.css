@@ -1,0 +1,14 @@
+.nav {
+  background-color: rgb(255, 255, 255);
+}
+
+.navFont {
+  color: rgb(237, 41, 41);
+  font-size: 44px;
+  font-weight: 600;
+}
+
+.navFont2 {
+  color: rgb(0, 191, 255);
+  font-size: 25px;
+}
