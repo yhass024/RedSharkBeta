@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/yhass024/RedSharkBeta.git/static/css/main.ae82a45f.chunk.css",
+    "main.js": "/yhass024/RedSharkBeta.git/static/js/main.f65eec0d.chunk.js",
+    "main.js.map": "/yhass024/RedSharkBeta.git/static/js/main.f65eec0d.chunk.js.map",
+    "runtime-main.js": "/yhass024/RedSharkBeta.git/static/js/runtime-main.b7fc97b1.js",
+    "runtime-main.js.map": "/yhass024/RedSharkBeta.git/static/js/runtime-main.b7fc97b1.js.map",
+    "static/css/2.3a2569f7.chunk.css": "/yhass024/RedSharkBeta.git/static/css/2.3a2569f7.chunk.css",
+    "static/js/2.ad8c35eb.chunk.js": "/yhass024/RedSharkBeta.git/static/js/2.ad8c35eb.chunk.js",
+    "static/js/2.ad8c35eb.chunk.js.map": "/yhass024/RedSharkBeta.git/static/js/2.ad8c35eb.chunk.js.map",
+    "static/js/3.4ba332f4.chunk.js": "/yhass024/RedSharkBeta.git/static/js/3.4ba332f4.chunk.js",
+    "static/js/3.4ba332f4.chunk.js.map": "/yhass024/RedSharkBeta.git/static/js/3.4ba332f4.chunk.js.map",
+    "index.html": "/yhass024/RedSharkBeta.git/index.html",
+    "static/css/2.3a2569f7.chunk.css.map": "/yhass024/RedSharkBeta.git/static/css/2.3a2569f7.chunk.css.map",
+    "static/css/main.ae82a45f.chunk.css.map": "/yhass024/RedSharkBeta.git/static/css/main.ae82a45f.chunk.css.map",
+    "static/js/2.ad8c35eb.chunk.js.LICENSE.txt": "/yhass024/RedSharkBeta.git/static/js/2.ad8c35eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7fc97b1.js",
+    "static/css/2.3a2569f7.chunk.css",
+    "static/js/2.ad8c35eb.chunk.js",
+    "static/css/main.ae82a45f.chunk.css",
+    "static/js/main.f65eec0d.chunk.js"
+  ]
+}
